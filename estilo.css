@@ -1,0 +1,38 @@
+
+
+header{
+
+  font-size: 200%;
+  font-weight: bold;
+  letter-spacing: 3px;
+  text-align: center;
+  text-shadow : darkblue 5px 3px 9px;
+  text-transform: uppercase;
+color: darkblue;
+
+}
+
+p { 
+  
+    text-indent: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+      
+    
+  }
+  
+  span{
+
+  font-size: 100%;
+  text-align: center;
+  font-family: fantasy;
+
+  }
+
+
+ pre{
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-align: center;
+  }
+  
